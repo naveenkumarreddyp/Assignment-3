@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(243, 221, 122);
+}
+table{
+    width:100%;
+}
+/* table-1 for image and heading */
+.table1, .row1{
+    border:5px solid black ;
+    font-size:30px;
+    text-align:center;
+    border-radius: 20px;
+    background: rgb(188, 240, 214);
+}
+/* table-2 for lists */
+.table2{
+    border-spacing: 50px;
+}
+.row2,.col1,.col2{
+    border: 5px solid black;
+    border-radius: 20px;
+    width:250px;
+    height:1000px;
+    background:rgb(188, 240, 214);
+    font-size: 40px;
+}
+a{
+    text-decoration: None;
+    color: black;
+}
