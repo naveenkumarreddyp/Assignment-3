@@ -6,10 +6,11 @@ table{
 }
 /* table-1 for image and heading */
 .table1, .row1{
-    border:5px solid black ;
+    border:5px solid black;
+    border-left: 0px;
+    border-right: 0px;
     font-size:30px;
     text-align:center;
-    border-radius: 20px;
     background: rgb(188, 240, 214);
 }
 /* table-2 for lists */
